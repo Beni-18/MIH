@@ -5,6 +5,7 @@ int main()
  printf(" World");
  printf("Check");
  \\checking 
- printf("ABCDEFU")
+ printf("ABCDEFU");
+ printf("ligma");
   return 0;
 }
