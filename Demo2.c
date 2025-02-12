@@ -7,5 +7,6 @@ int main()
  \\checking 
  printf("ABCDEFU");
  printf("ligma");
+ printf("Gong");
   return 0;
 }
